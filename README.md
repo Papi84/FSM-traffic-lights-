@@ -1,4 +1,4 @@
-Below is a sample README.md file tailored for your GitHub repository containing the synchronous finite state machine (FSM) traffic light example we discussed. A good README provides an overview of the project, instructions for setup and usage, and any additional context. Feel free to modify it to suit your needs!
+ instructions for setup and usage, and any additional context. Feel free to modify it to suit your needs!
 Traffic Light FSM Simulator
 This repository contains a simple implementation of a synchronous finite state machine (FSM) in C, simulating a traffic light system. The FSM transitions between three states—Green, Yellow, and Red—based on a simulated timer, demonstrating the principles of synchronous state machines in a Moore Machine configuration.
 Table of Contents
